@@ -6,3 +6,6 @@ This exercise uses a map API to show a map at any given cooridinates. The exceri
 You can run this program through VS code and opening the .HTML file in your browser.
 
 Hopes for improvement, continue to work with the Bentley API to have it refresh using a callback function
+
+License through MIT
+
